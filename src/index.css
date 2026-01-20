@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: system-ui;
+  background: linear-gradient(135deg,#1e3c72,#2a5298);
+  color: white;
+}
+.app {
+  text-align: center;
+  padding: 20px;
+}
+button {
+  width: 80%;
+  padding: 14px;
+  margin: 10px auto;
+  display: block;
+  border-radius: 12px;
+  font-size: 18px;
+  border: none;
+  background: #00e5ff;
+}
+.last { opacity: 0.6; }
